@@ -1,3 +1,4 @@
+
 img_h, img_w, num_channels = (380, 676, 3)
 df = pd.read_csv('../input/car-object-detection/data/train_solution_bounding_boxes (1).csv')
 df.rename(columns={'image':'image_id'}, inplace=True)
