@@ -1,7 +1,7 @@
 
 ***
 
-# Welcome to The Beta Testing Studios. Pvt. Ltd!
+# Welcome to The prototype projects repository!
 
 ***
 
